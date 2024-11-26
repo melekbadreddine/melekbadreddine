@@ -79,13 +79,15 @@
     <h2>🚀 Research Lab Management Microservices</h2>
   </summary>
   <span>
-    <p>🔘 A sophisticated web application built with microservices architecture for managing research laboratory operations. The system leverages Spring Boot for backend services, Angular for the frontend interface, and includes service discovery with Eureka, all containerized using Docker.</p>
+    <p>🔘 A sophisticated web application built with microservices architecture for managing research laboratory operations. The system leverages Spring Boot for backend services, Angular for the frontend interface, and includes service discovery with Eureka, all containerized using Docker. Authentication is handled through Firebase OAuth2 with JWT tokens, and data persistence is managed with MySQL.</p>
   
   <p>
       <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white"></a>
       <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?logo=spring&logoColor=white"></a>
       <a href="#"><img alt="Maven" src="https://img.shields.io/badge/Maven-%23C71A36.svg?logo=apache-maven&logoColor=white"></a>
       <a href="#"><img alt="Eureka" src="https://img.shields.io/badge/Eureka-%23FF9900.svg?logo=netflix&logoColor=white"></a>
+      <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?logo=firebase&logoColor=black"></a>
+      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white"></a>
       <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white"></a>
   </p>
 
@@ -95,7 +97,7 @@
         <ul><b>🌀 Frontend Development:</b>
           <li>🟡 Modern, responsive user interface built with Angular</li>
           <li>🟡 Intuitive dashboard for laboratory management</li>
-          <li>🟡 Real-time updates and notifications</li>
+          <li>🟡 Secure authentication with Firebase OAuth2</li>
         </ul>
       </li>
       <li>
@@ -103,6 +105,14 @@
           <li>🟡 Microservices implementation using Spring Boot</li>
           <li>🟡 RESTful API design for service communication</li>
           <li>🟡 Service discovery and registration with Eureka</li>
+          <li>🟡 MySQL database for persistent data storage</li>
+        </ul>
+      </li>
+      <li>
+        <ul><b>🌀 Security:</b>
+          <li>🟡 OAuth2 authentication through Firebase</li>
+          <li>🟡 JWT token-based authorization</li>
+          <li>🟡 Secure API endpoints</li>
         </ul>
       </li>
       <li>
@@ -117,15 +127,7 @@
           <li>🟡 Containerized microservices for easy deployment</li>
         </ul>
       </li>
-      <li>
-        <ul><b>🌀 Research Lab Features:</b>
-          <li>🟡 Equipment and resource management</li>
-          <li>🟡 Project tracking and documentation</li>
-          <li>🟡 Team collaboration tools</li>
-        </ul>
-      </li>
     </ul>
-
   </span>
 </details>
 <hr>
@@ -189,7 +191,7 @@
 <hr>
 <details> 
   <summary> 
-    <h2>🚀 Project Wellbeing Guide: AI Therapy App for Anxiety Management</h2>
+    <h2>🚀 Wellbeing Guide: AI Therapy App for Anxiety Management</h2>
   </summary>
   <span>
     <p>🔘 This project demonstrates a generative AI-based therapy application for anxiety management, developed in collaboration with psychotherapists. The app integrates therapeutic models with AI-powered chatbots to provide interactive, personalized care. It leverages Flutter for cross-platform mobile development and Azure OpenAI API for chatbot interaction, ensuring smooth and scalable deployments using AKS.</p>
