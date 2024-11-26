@@ -22,34 +22,106 @@
  <hr>
 <details> 
   <summary> 
-    <h2>🚀 Deploying and Managing Microservices on Istio: Microservices with Service Mesh</h2>
+    <h2>🚀 Automated CI/CD Pipeline for 3-Tier Architecture on AWS</h2>
   </summary>
   <span>
-    <p>🔘 This project demonstrates the deployment and management of microservices using Istio's service mesh, leveraging tools such as Kiali, Jaeger, and Grafana for monitoring and tracing. Google's microservices-demo GitHub repository was utilized as the base for the microservices deployment.</p>
-    
-  <p>  
-      <a href="#"><img alt="Istio" src="https://img.shields.io/badge/Istio-%23000000.svg?logo=istio&logoColor=white"></a>
-      <a href="#"><img alt="Kiali" src="https://img.shields.io/badge/Kiali-%23009639.svg?logo=kiali&logoColor=white"></a>
-      <a href="#"><img alt="Jaeger" src="https://img.shields.io/badge/Jaeger-%230E6EFF.svg?logo=jaeger&logoColor=white"></a>
-      <a href="#"><img alt="ArgoCD" src="https://img.shields.io/badge/ArgoCD-%230046F5.svg?logo=argo&logoColor=white"></a>
-      <a href="#"><img alt="Grafana" src="https://img.shields.io/badge/Grafana-%23F46800.svg?logo=grafana&logoColor=white"></a>
+    <p>🔘 This project implements a comprehensive DevOps pipeline that automates the deployment of a 3-tier containerized architecture. It leverages Infrastructure as Code (IaC) principles with Terraform for AWS provisioning, Ansible for configuration management, and Jenkins for CI/CD automation.</p>
+  
+  <p>
+      <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white"></a>
+      <a href="#"><img alt="Terraform" src="https://img.shields.io/badge/Terraform-%235835CC.svg?logo=terraform&logoColor=white"></a>
+      <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white"></a>
+      <a href="#"><img alt="Ansible" src="https://img.shields.io/badge/Ansible-%231A1918.svg?logo=ansible&logoColor=white"></a>
+      <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"></a>
+      <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%232C5263.svg?logo=jenkins&logoColor=white"></a>
   </p>
 
   <ul>
-      <h2> - 💡 Content and Key features of the project </h2>
+      <h2>- 💡 Key Features and Components</h2>
       <li>
-        <ul> <b>🌀 Microservices Deployment: </b>
-          <li>🟡 Deployed microservices using Google's microservices-demo repository on Istio service mesh.</li>
+        <ul><b>🌀 Containerization and Orchestration:</b>
+          <li>🟡 Implementation of containerized 3-tier architecture using Docker</li>
+          <li>🟡 Container orchestration with Docker Compose for service management</li>
         </ul>
       </li>
       <li>
-        <ul> <b>🌀 Service Mesh Management: </b>
-          <li>🟡 Managed the service mesh with Kiali for visualization.</li>
+        <ul><b>🌀 CI/CD Pipeline:</b>
+          <li>🟡 Automated code retrieval from GitHub repository</li>
+          <li>🟡 Automated Docker image building and registry pushing</li>
+          <li>🟡 Jenkins pipeline for continuous integration and deployment</li>
         </ul>
       </li>
       <li>
-        <ul> <b>🌀 Monitoring & Tracing: </b>
-          <li>🟡 Integrated Jaeger for distributed tracing and Grafana for monitoring the services.</li>
+        <ul><b>🌀 Infrastructure Management:</b>
+          <li>🟡 Automated AWS EC2 instance provisioning using Terraform</li>
+          <li>🟡 Infrastructure as Code (IaC) implementation for reproducible environments</li>
+        </ul>
+      </li>
+      <li>
+        <ul><b>🌀 Configuration Management:</b>
+          <li>🟡 Automated server configuration with Ansible</li>
+          <li>🟡 Consistent environment setup across all instances</li>
+        </ul>
+      </li>
+      <li>
+        <ul><b>🌀 Deployment Automation:</b>
+          <li>🟡 Streamlined deployment process to AWS EC2 instances</li>
+          <li>🟡 Automated application deployment and updates</li>
+        </ul>
+      </li>
+    </ul>
+
+  </span>
+</details>
+ <hr>
+<details> 
+  <summary> 
+    <h2>🚀 Research Lab Management Microservices</h2>
+  </summary>
+  <span>
+    <p>🔘 A sophisticated web application built with microservices architecture for managing research laboratory operations. The system leverages Spring Boot for backend services, Angular for the frontend interface, and includes service discovery with Eureka, all containerized using Docker.</p>
+  
+  <p>
+      <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white"></a>
+      <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?logo=spring&logoColor=white"></a>
+      <a href="#"><img alt="Maven" src="https://img.shields.io/badge/Maven-%23C71A36.svg?logo=apache-maven&logoColor=white"></a>
+      <a href="#"><img alt="Eureka" src="https://img.shields.io/badge/Eureka-%23FF9900.svg?logo=netflix&logoColor=white"></a>
+      <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white"></a>
+  </p>
+
+  <ul>
+      <h2>- 💡 Key Features and Components</h2>
+      <li>
+        <ul><b>🌀 Frontend Development:</b>
+          <li>🟡 Modern, responsive user interface built with Angular</li>
+          <li>🟡 Intuitive dashboard for laboratory management</li>
+          <li>🟡 Real-time updates and notifications</li>
+        </ul>
+      </li>
+      <li>
+        <ul><b>🌀 Backend Architecture:</b>
+          <li>🟡 Microservices implementation using Spring Boot</li>
+          <li>🟡 RESTful API design for service communication</li>
+          <li>🟡 Service discovery and registration with Eureka</li>
+        </ul>
+      </li>
+      <li>
+        <ul><b>🌀 Build and Dependency Management:</b>
+          <li>🟡 Maven for efficient dependency management</li>
+          <li>🟡 Automated build processes</li>
+        </ul>
+      </li>
+      <li>
+        <ul><b>🌀 Containerization:</b>
+          <li>🟡 Docker Compose for service orchestration</li>
+          <li>🟡 Containerized microservices for easy deployment</li>
+        </ul>
+      </li>
+      <li>
+        <ul><b>🌀 Research Lab Features:</b>
+          <li>🟡 Equipment and resource management</li>
+          <li>🟡 Project tracking and documentation</li>
+          <li>🟡 Team collaboration tools</li>
         </ul>
       </li>
     </ul>
@@ -157,55 +229,6 @@
       <li>
         <ul> <b>🌀 Version Control: </b>
           <li>🟡 Managed project development and teamwork with Git and GitHub.</li>
-        </ul>
-      </li>
-    </ul>
-
-  </span>
-</details>
-<hr>
- <details> 
-  <summary> 
-    <h2>🚀 DevOps Capstone Project: End-to-End DevOps Pipeline Implementation</h2>
-  </summary>
-  <span>
-    <p>🔘 This project focuses on implementing a full DevOps pipeline using Tekton on OpenShift. It includes automated CI/CD processes, manual Kubernetes deployments, and security enhancements to a Flask-based RESTful service developed using Test-Driven Development (TDD).</p>
-  
-  <p>
-      <a href="#"><img alt="Kanban" src="https://img.shields.io/badge/Kanban-%23026AA7.svg?logo=trello&logoColor=white"></a>
-      <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-%23000.svg?logo=flask&logoColor=white"></a>
-      <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?logo=githubactions&logoColor=white"></a>
-      <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white"></a>
-      <a href="#"><img alt="OpenShift" src="https://img.shields.io/badge/OpenShift-%23EE0000.svg?logo=redhatopenshift&logoColor=white"></a>
-      <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?logo=kubernetes&logoColor=white"></a>
-      <a href="#"><img alt="Tekton" src="https://img.shields.io/badge/Tekton-%234388F3.svg?logo=tekton&logoColor=white"></a>
-  </p>
-
-  <ul>
-      <h2> - 💡 Content and Key features of the project </h2>
-      <li>
-        <ul> <b>🌀 Sprint Planning and Task Management: </b>
-          <li>🟡 Utilized ZenHub's kanban board for efficient sprint planning and task tracking.</li>
-        </ul>
-      </li>
-      <li>
-        <ul> <b>🌀 Test-Driven Development: </b>
-          <li>🟡 Developed a RESTful service using Flask, following TDD practices.</li>
-        </ul>
-      </li>
-      <li>
-        <ul> <b>🌀 Continuous Integration & Security: </b>
-          <li>🟡 Integrated GitHub Actions for CI and security checks.</li>
-        </ul>
-      </li>
-      <li>
-        <ul> <b>🌀 Kubernetes Deployment: </b>
-          <li>🟡 Containerized the Flask application and manually deployed it to Kubernetes and OpenShift clusters.</li>
-        </ul>
-      </li>
-      <li>
-        <ul> <b>🌀 Continuous Deployment with Tekton: </b>
-          <li>🟡 Built an automated CD pipeline using Tekton on OpenShift for efficient deployments.</li>
         </ul>
       </li>
     </ul>
