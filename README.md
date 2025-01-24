@@ -11,232 +11,56 @@
 <!--Intro start-->
 <h2 style="text-align: center"> **Cloud & DevOps 𝐄𝐍𝐆𝐈𝐍𝐄𝐄𝐑 with enthusiasm to pursue careers in ☁️ 𝗖𝗟𝗢𝗨𝗗 𝗔𝗥𝗖𝗛𝗜𝗧𝗘𝗖𝗛𝗧𝗨𝗥𝗘  / 🧠.** </h2>
 
-- <img alt="GIF" src="images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Terraform & Ansible**. <br>
+- <img alt="GIF" src="images/Developer.gif" width="25" /> &nbsp; I’m currently learning **OpenShift**. <br>
 - <img src="images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
 - <img src="images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **anything**. <br>
 - <img src="images/letterbox.gif?raw=true" width="25" /> &nbsp; Contact me: **[badreddine.malek@enis.tn]**<br>
 - &nbsp;&nbsp;<img src="images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 <!--Intro end-->
 
- <h1 align="center"> 🧾 Projects </h1>
- <hr>
-<details> 
-  <summary> 
-    <h2>🚀 Automated CI/CD Pipeline for 3-Tier Architecture on AWS</h2>
-  </summary>
-  <span>
-    <p>🔘 This project implements a comprehensive DevOps pipeline that automates the deployment of a 3-tier containerized architecture. It leverages Infrastructure as Code (IaC) principles with Terraform for AWS provisioning, Ansible for configuration management, and Jenkins for CI/CD automation.</p>
-  
-  <p>
-      <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white"></a>
-      <a href="#"><img alt="Terraform" src="https://img.shields.io/badge/Terraform-%235835CC.svg?logo=terraform&logoColor=white"></a>
-      <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white"></a>
-      <a href="#"><img alt="Ansible" src="https://img.shields.io/badge/Ansible-%231A1918.svg?logo=ansible&logoColor=white"></a>
-      <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"></a>
-      <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%232C5263.svg?logo=jenkins&logoColor=white"></a>
-  </p>
-
-  <ul>
-      <h2>- 💡 Key Features and Components</h2>
-      <li>
-        <ul><b>🌀 Containerization and Orchestration:</b>
-          <li>🟡 Implementation of containerized 3-tier architecture using Docker</li>
-          <li>🟡 Container orchestration with Docker Compose for service management</li>
-        </ul>
-      </li>
-      <li>
-        <ul><b>🌀 CI/CD Pipeline:</b>
-          <li>🟡 Automated code retrieval from GitHub repository</li>
-          <li>🟡 Automated Docker image building and registry pushing</li>
-          <li>🟡 Jenkins pipeline for continuous integration and deployment</li>
-        </ul>
-      </li>
-      <li>
-        <ul><b>🌀 Infrastructure Management:</b>
-          <li>🟡 Automated AWS EC2 instance provisioning using Terraform</li>
-          <li>🟡 Infrastructure as Code (IaC) implementation for reproducible environments</li>
-        </ul>
-      </li>
-      <li>
-        <ul><b>🌀 Configuration Management:</b>
-          <li>🟡 Automated server configuration with Ansible</li>
-          <li>🟡 Consistent environment setup across all instances</li>
-        </ul>
-      </li>
-      <li>
-        <ul><b>🌀 Deployment Automation:</b>
-          <li>🟡 Streamlined deployment process to AWS EC2 instances</li>
-          <li>🟡 Automated application deployment and updates</li>
-        </ul>
-      </li>
-    </ul>
-
-  </span>
-</details>
- <hr>
-<details> 
-  <summary> 
-    <h2>🚀 Research Lab Management Microservices</h2>
-  </summary>
-  <span>
-    <p>🔘 A sophisticated web application built with microservices architecture for managing research laboratory operations. The system leverages Spring Boot for backend services, Angular for the frontend interface, and includes service discovery with Eureka, all containerized using Docker. Authentication is handled through Firebase OAuth2 with JWT tokens, and data persistence is managed with MySQL.</p>
-  
-  <p>
-      <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white"></a>
-      <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?logo=spring&logoColor=white"></a>
-      <a href="#"><img alt="Maven" src="https://img.shields.io/badge/Maven-%23C71A36.svg?logo=apache-maven&logoColor=white"></a>
-      <a href="#"><img alt="Eureka" src="https://img.shields.io/badge/Eureka-%23FF9900.svg?logo=netflix&logoColor=white"></a>
-      <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?logo=firebase&logoColor=black"></a>
-      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white"></a>
-      <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white"></a>
-  </p>
-
-  <ul>
-      <h2>- 💡 Key Features and Components</h2>
-      <li>
-        <ul><b>🌀 Frontend Development:</b>
-          <li>🟡 Modern, responsive user interface built with Angular</li>
-          <li>🟡 Intuitive dashboard for laboratory management</li>
-          <li>🟡 Secure authentication with Firebase OAuth2</li>
-        </ul>
-      </li>
-      <li>
-        <ul><b>🌀 Backend Architecture:</b>
-          <li>🟡 Microservices implementation using Spring Boot</li>
-          <li>🟡 RESTful API design for service communication</li>
-          <li>🟡 Service discovery and registration with Eureka</li>
-          <li>🟡 MySQL database for persistent data storage</li>
-        </ul>
-      </li>
-      <li>
-        <ul><b>🌀 Security:</b>
-          <li>🟡 OAuth2 authentication through Firebase</li>
-          <li>🟡 JWT token-based authorization</li>
-          <li>🟡 Secure API endpoints</li>
-        </ul>
-      </li>
-      <li>
-        <ul><b>🌀 Build and Dependency Management:</b>
-          <li>🟡 Maven for efficient dependency management</li>
-          <li>🟡 Automated build processes</li>
-        </ul>
-      </li>
-      <li>
-        <ul><b>🌀 Containerization:</b>
-          <li>🟡 Docker Compose for service orchestration</li>
-          <li>🟡 Containerized microservices for easy deployment</li>
-        </ul>
-      </li>
-    </ul>
-  </span>
-</details>
-<hr>
-<details> 
-  <summary> 
-    <h2>🚀 Docker API: Web Application for Docker API Manipulation</h2>
-  </summary>
-  <span>
-    <p>🔘 This project involves developing, deploying, and managing a web application to manipulate Docker APIs. The application includes JWT-based security, CI/CD pipelines using Jenkins, and automated deployment with GitOps and ArgoCD. Infrastructure was provisioned using Terraform, and the application was monitored with Prometheus and Grafana.</p>
-    
-  <p>
-      <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?logo=springboot&logoColor=white"></a>
-      <a href="#"><img alt="Maven" src="https://img.shields.io/badge/Maven-%23C71A36.svg?logo=apachemaven&logoColor=white"></a>
-      <a href="#"><img alt="JWT" src="https://img.shields.io/badge/JWT-%23000000.svg?logo=jsonwebtokens&logoColor=white"></a>
-      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white"></a>
-      <a href="#"><img alt="Swagger" src="https://img.shields.io/badge/Swagger-%2385EA2D.svg?logo=swagger&logoColor=white"></a>
-      <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-%E03A3E.svg?logo=angular&logoColor=white"></a>
-      <a href="#"><img alt="Minikube" src="https://img.shields.io/badge/Minikube-%23326CE5.svg?logo=kubernetes&logoColor=white"></a>
-      <a href="#"><img alt="Terraform" src="https://img.shields.io/badge/Terraform-%237B42BC.svg?logo=terraform&logoColor=white"></a>
-      <a href="#"><img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?logo=microsoft-azure&logoColor=white"></a>
-      <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%23D24939.svg?logo=jenkins&logoColor=white"></a>
-      <a href="#"><img alt="SonarQube" src="https://img.shields.io/badge/SonarQube-%23FCA121.svg?logo=sonarqube&logoColor=white"></a>
-      <a href="#"><img alt="Trivy" src="https://img.shields.io/badge/Trivy-%231D2C6E.svg?logo=trivy&logoColor=white"></a>
-      <a href="#"><img alt="ArgoCD" src="https://img.shields.io/badge/ArgoCD-%230046F5.svg?logo=argo&logoColor=white"></a>
-      <a href="#"><img alt="Helm" src="https://img.shields.io/badge/Helm-%23000000.svg?logo=helm&logoColor=white"></a>
-      <a href="#"><img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?logo=prometheus&logoColor=white"></a>
-      <a href="#"><img alt="Grafana" src="https://img.shields.io/badge/Grafana-%23F46800.svg?logo=grafana&logoColor=white"></a>
-  </p>
-
-  <ul>
-      <h2> - 💡 Content and Key features of the project </h2>
-      <li>
-        <ul> <b>🌀 Web Application for Docker API Manipulation: </b>
-          <li>🟡 Developed a web application for Docker API manipulation, secured with JWT.</li>
-        </ul>
-      </li>
-      <li>
-        <ul> <b>🌀 Containerization & Orchestration: </b>
-          <li>🟡 Created Dockerfiles and Kubernetes manifests for deployment on Minikube.</li>
-        </ul>
-      </li>
-      <li>
-        <ul> <b>🌀 CI/CD Pipelines: </b>
-          <li>🟡 Implemented CI/CD using Jenkins, integrated with SonarQube and Trivy for security scanning.</li>
-        </ul>
-      </li>
-      <li>
-        <ul> <b>🌀 Infrastructure Provisioning: </b>
-          <li>🟡 Utilized Terraform for Infrastructure as Code to provision a VM on Azure.</li>
-        </ul>
-      </li>
-      <li>
-        <ul> <b>🌀 Monitoring & GitOps: </b>
-          <li>🟡 Implemented GitOps practices using ArgoCD and monitored the application using Prometheus and Grafana.</li>
-        </ul>
-      </li>
-    </ul>
-
-  </span>
-</details>
-<hr>
-<details> 
-  <summary> 
-    <h2>🚀 Wellbeing Guide: AI Therapy App for Anxiety Management</h2>
-  </summary>
-  <span>
-    <p>🔘 This project demonstrates a generative AI-based therapy application for anxiety management, developed in collaboration with psychotherapists. The app integrates therapeutic models with AI-powered chatbots to provide interactive, personalized care. It leverages Flutter for cross-platform mobile development and Azure OpenAI API for chatbot interaction, ensuring smooth and scalable deployments using AKS.</p>
-  
-  <p>
-      <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=flutter&logoColor=white"></a>
-      <a href="#"><img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white"></a>
-      <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?logo=firebase&logoColor=black"></a>
-      <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-%23000.svg?logo=flask&logoColor=white"></a>
-      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white"></a>
-      <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white"></a>
-      <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white"></a>
-      <a href="#"><img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?logo=microsoft-azure&logoColor=white"></a>
-
-  </p>
-
-  <ul>
-      <h2> - 💡 Content and Key features of the project </h2>
-      <li>
-        <ul> <b>🌀 AI-Powered Therapy: </b>
-          <li>🟡 Developed in collaboration with psychotherapists for domain-specific requirements. </li>
-          <li>🟡 Integrated Azure OpenAI API to enhance patient interaction through a chatbot. </li>
-        </ul>
-      </li>
-      <li>
-        <ul> <b>🌀 Cross-Platform Development: </b>
-          <li>🟡 Built with Flutter and Dart for seamless operation on both Android and iOS platforms. </li>
-          <li>🟡 Firebase was used for reliable backend services.</li>
-        </ul>
-      </li>
-      <li>
-        <ul> <b>🌀 Scalable Infrastructure: </b>
-          <li>🟡 Containerized the chatbot with Docker and developed Kubernetes deployment manifests. </li>
-          <li>🟡 Deployed on Azure Kubernetes Service (AKS) for high availability and scalability. </li>
-        </ul>
-      </li>
-      <li>
-        <ul> <b>🌀 Version Control: </b>
-          <li>🟡 Managed project development and teamwork with Git and GitHub.</li>
-        </ul>
-      </li>
-    </ul>
-
-  </span>
-</details>
+ <h1 align="center"> 💻 Languages and Tools </h1>
+<p align="left"> 
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
+  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
+   <a href="https://jinja.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_jinja/pocoo_jinja-icon.svg" alt="jinja2" width="40" height="40"/> </a> 
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
+  <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+  <a href="https://www.talend.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/talend/talend-icon.svg" alt="talend" width="40" height="40"/> </a> 
+  <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> </a> 
+    <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> 
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40" height="40"/> </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://jira.atlassian.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/> </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
+  <a href="https://istio.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" alt="istio" width="40" height="40"/> </a> 
+  <a href="https://www.terraform.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a> 
+  <a href="https://www.ansible.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> </a> 
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
+  <a href="https://prometheus.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/> </a> 
+  <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> 
+  <a href="https://www.jaegertracing.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jaegertracingio/jaegertracingio-icon.svg" alt="jaeger" width="40" height="40"/> </a> 
+</p>
 <hr>
 
 <!--- stats & Trophy (start) -->
