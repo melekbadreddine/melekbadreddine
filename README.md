@@ -4,7 +4,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, Name's Melek Badreddine!</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, Name's Melek BADREDDINE!</h1></summary>
   </ul>
 </div>
 
@@ -23,7 +23,7 @@
   <!-- 🧠 Core OS & DevOps Foundations --> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://go-skill-icons.vercel.app/api/icons?i=linux" alt="linux" width="40" height="40"/> </a>
   <a href="https://www.gnu.org/software/bash/bash.html" target="_blank" rel="noreferrer"> <img src="https://go-skill-icons.vercel.app/api/icons?i=bash" alt="bash" width="40" height="40"/> </a> 
-  <a href="https://ubuntu.com/" target="_blank"> <img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu" alt="ubuntu" width="40" height="40"/> </a>
+  <a href="https://pop.system76.com/" target="_blank"> <img src="https://go-skill-icons.vercel.app/api/icons?i=popos" alt="popos" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://go-skill-icons.vercel.app/api/icons?i=git" alt="git" width="40" height="40"/> </a>
   <a href="https://gitlab.com" target="_blank" rel="noreferrer"> <img src="https://go-skill-icons.vercel.app/api/icons?i=gitlab" alt="gitlab" width="40" height="40"/> </a>
   <!-- 🧩 Programming Languages & Frameworks -->
@@ -57,6 +57,7 @@
   <a href="https://opentelemetry.io" target="_blank" rel="noreferrer"> <img src="https://go-skill-icons.vercel.app/api/icons?i=opentelemetry" alt="otel" width="40" height="40"/> </a>
   <a href="https://prometheus.io" target="_blank" rel="noreferrer"> <img src="https://go-skill-icons.vercel.app/api/icons?i=prometheus" alt="prometheus" width="40" height="40"/> </a> 
   <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://go-skill-icons.vercel.app/api/icons?i=grafana" alt="grafana" width="40" height="40"/> </a> 
+  <a href="https://www.jaegertracing.io/" target="_blank" rel="noreferrer"> <img src="https://go-skill-icons.vercel.app/api/icons?i=jaeger" alt="jaeger" width="40" height="40"/> </a>
 </p>
 <hr>
 
