@@ -31,7 +31,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://go-skill-icons.vercel.app/api/icons?i=python" alt="python" width="40" height="40"/> </a> 
   <a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://go-skill-icons.vercel.app/api/icons?i=go" alt="go" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://go-skill-icons.vercel.app/api/icons?i=ts" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a>  
+  <a href="https://bun.sh/" target="_blank" rel="noreferrer"> <img src="https://go-skill-icons.vercel.app/api/icons?i=bun" alt="bun" width="40" height="40"/> </a>  
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a>
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://go-skill-icons.vercel.app/api/icons?i=angular" alt="angular" width="40" height="40"/> </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://go-skill-icons.vercel.app/api/icons?i=spring" alt="spring" width="40" height="40"/> </a> 
