@@ -16,7 +16,7 @@ jobs:
       - name: Introduction
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.introduction.svg
+          filename: assets/metrics/metrics.plugin.introduction.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_introduction: yes
@@ -26,7 +26,7 @@ jobs:
       - name: Isometric Calendar
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.isocalendar.svg
+          filename: assets/metrics/metrics.plugin.isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
@@ -36,7 +36,7 @@ jobs:
       - name: Languages Activity
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.languages.svg
+          filename: assets/metrics/metrics.plugin.languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_languages: yes
@@ -49,7 +49,7 @@ jobs:
       - name: Anilist Favorite Anime
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.anilist.anime.svg
+          filename: assets/metrics/metrics.plugin.anilist.anime.svg
           token: NOT_NEEDED
           base: ""
           plugin_anilist: yes
@@ -62,7 +62,7 @@ jobs:
       - name: Anilist Favorite Manga
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.anilist.manga.svg
+          filename: assets/metrics/metrics.plugin.anilist.manga.svg
           token: NOT_NEEDED
           base: ""
           plugin_anilist: yes
@@ -75,7 +75,7 @@ jobs:
       - name: Anilist Favorite Characters
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.anilist.characters.svg
+          filename: assets/metrics/metrics.plugin.anilist.characters.svg
           token: NOT_NEEDED
           base: ""
           plugin_anilist: yes

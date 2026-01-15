@@ -11,11 +11,11 @@
 <!--Intro start-->
 <h2 style="text-align: center"> **Cloud & DevOps 𝐄𝐍𝐆𝐈𝐍𝐄𝐄𝐑 with enthusiasm to pursue careers in ☁️ 𝗖𝗟𝗢𝗨𝗗 𝗔𝗥𝗖𝗛𝗜𝗧𝗘𝗖𝗛𝗧𝗨𝗥𝗘  / 🧠.** </h2>
 
-- <img alt="GIF" src="images/developer.gif" width="25" /> &nbsp; I’m currently on my journey to become a **Kubestronaut**. <br>
-- <img src="images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
-- <img src="images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **anything**. <br>
-- <img src="images/letterbox.gif?raw=true" width="25" /> &nbsp; Contact me: **[badreddine.malek@enis.tn]**<br>
-- &nbsp;&nbsp;<img src="images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
+- <img alt="GIF" src="assets/images/developer.gif" width="25" /> &nbsp; I’m currently on my journey to become a **Kubestronaut**. <br>
+- <img src="assets/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
+- <img src="assets/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **anything**. <br>
+- <img src="assets/images/letterbox.gif?raw=true" width="25" /> &nbsp; Contact me: **[badreddine.malek@enis.tn]**<br>
+- &nbsp;&nbsp;<img src="assets/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 <!--Intro end-->
 
 <h1 align="center"> 💻 Languages and Tools </h1>
@@ -23,7 +23,7 @@
   <!-- 🧠 Core OS & DevOps Foundations --> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://go-skill-icons.vercel.app/api/icons?i=linux" alt="linux" width="40" height="40"/> </a>
   <a href="https://www.gnu.org/software/bash/bash.html" target="_blank" rel="noreferrer"> <img src="https://go-skill-icons.vercel.app/api/icons?i=bash" alt="bash" width="40" height="40"/> </a> 
-  <a href="https://pop.system76.com/" target="_blank"> <img src="https://go-skill-icons.vercel.app/api/icons?i=popos" alt="popos" width="40" height="40"/> </a>
+  <a href="https://nixos.org/" target="_blank"> <img src="https://go-skill-icons.vercel.app/api/icons?i=nixos" alt="nixos" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://go-skill-icons.vercel.app/api/icons?i=git" alt="git" width="40" height="40"/> </a>
   <a href="https://gitlab.com" target="_blank" rel="noreferrer"> <img src="https://go-skill-icons.vercel.app/api/icons?i=gitlab" alt="gitlab" width="40" height="40"/> </a>
   <!-- 🧩 Programming Languages & Frameworks -->
@@ -61,32 +61,12 @@
 </p>
 <hr>
 
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://nirzak-streak-stats.vercel.app/?user=melekbadreddine&theme=tokyonight&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-contributor-stats.vercel.app/api?username=melekbadreddine&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
+<!--- stats (start) -->
 <div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=melekbadreddine&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=1&column=7&margin-h=15&margin-w=5" alt="TROPHY" />
-    </a>
+  <a href="https://stats.hyo.dev"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=melekbadreddine" width="600" /></a>
 </div>
 
-<!--- stats & Trophy (end) -->
+<!--- stats (end) -->
 
 <!--profile visit count-->
 
@@ -94,17 +74,11 @@
 
 <!--📊 GitHub Metrics-->
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/melekbadreddine/melekbadreddine/blob/main/metrics.plugin.introduction.svg">
-      <img src="https://github.com/melekbadreddine/melekbadreddine/blob/main/metrics.plugin.isocalendar.svg">
-      <img src="https://github.com/melekbadreddine/melekbadreddine/blob/main/metrics.plugin.languages.svg">
-    </td>
-    <td align="center">
-      <img src="https://github.com/melekbadreddine/melekbadreddine/blob/main/metrics.plugin.anilist.anime.svg">
-      <img src="https://github.com/melekbadreddine/melekbadreddine/blob/main/metrics.plugin.anilist.manga.svg">
-      <img src="https://github.com/melekbadreddine/melekbadreddine/blob/main/metrics.plugin.anilist.characters.svg">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github.com/melekbadreddine/melekbadreddine/blob/main/assets/metrics/metrics.plugin.introduction.svg" width="48%" />
+  <img src="https://github.com/melekbadreddine/melekbadreddine/blob/main/assets/metrics/metrics.plugin.anilist.anime.svg" width="48%" />
+  <img src="https://github.com/melekbadreddine/melekbadreddine/blob/main/assets/metrics/metrics.plugin.isocalendar.svg" width="48%" />
+  <img src="https://github.com/melekbadreddine/melekbadreddine/blob/main/assets/metrics/metrics.plugin.anilist.manga.svg" width="48%" />
+  <img src="https://github.com/melekbadreddine/melekbadreddine/blob/main/assets/metrics/metrics.plugin.languages.svg" width="48%" />
+  <img src="https://github.com/melekbadreddine/melekbadreddine/blob/main/assets/metrics/metrics.plugin.anilist.characters.svg" width="48%" />
+</p>
