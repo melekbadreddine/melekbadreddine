@@ -74,11 +74,15 @@
 
 <!--📊 GitHub Metrics-->
 
-<p align="center">
-  <img src="https://github.com/melekbadreddine/melekbadreddine/blob/main/assets/metrics/metrics.plugin.introduction.svg" width="48%" />
-  <img src="https://github.com/melekbadreddine/melekbadreddine/blob/main/assets/metrics/metrics.plugin.anilist.anime.svg" width="48%" />
-  <img src="https://github.com/melekbadreddine/melekbadreddine/blob/main/assets/metrics/metrics.plugin.isocalendar.svg" width="48%" />
-  <img src="https://github.com/melekbadreddine/melekbadreddine/blob/main/assets/metrics/metrics.plugin.anilist.manga.svg" width="48%" />
-  <img src="https://github.com/melekbadreddine/melekbadreddine/blob/main/assets/metrics/metrics.plugin.languages.svg" width="48%" />
-  <img src="https://github.com/melekbadreddine/melekbadreddine/blob/main/assets/metrics/metrics.plugin.anilist.characters.svg" width="48%" />
-</p>
+<div align="center">
+  <div style="display: inline-block; vertical-align: top; width: 49%;">
+    <img src="https://github.com/melekbadreddine/melekbadreddine/blob/main/assets/metrics/metrics.plugin.introduction.svg" width="100%">
+    <img src="https://github.com/melekbadreddine/melekbadreddine/blob/main/assets/metrics/metrics.plugin.isocalendar.svg" width="100%">
+    <img src="https://github.com/melekbadreddine/melekbadreddine/blob/main/assets/metrics/metrics.plugin.languages.svg" width="100%">
+  </div>
+  <div style="display: inline-block; vertical-align: top; width: 49%;">
+    <img src="https://github.com/melekbadreddine/melekbadreddine/blob/main/assets/metrics/metrics.plugin.anilist.anime.svg" width="100%">
+    <img src="https://github.com/melekbadreddine/melekbadreddine/blob/main/assets/metrics/metrics.plugin.anilist.manga.svg" width="100%">
+    <img src="https://github.com/melekbadreddine/melekbadreddine/blob/main/assets/metrics/metrics.plugin.anilist.characters.svg" width="100%">
+  </div>
+</div>
